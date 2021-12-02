@@ -16,7 +16,7 @@ Outside my life as a software engineer I help run a flower farm with my partner 
 
 ## My journey 🕹️
 
-I was first introduced to computers as a young child, my mother was quite the tech nerd in the 80s.  We had a PC and I got to play all the Sierra games which really sparked my fascination with computers.  Fast forward to my 12 grade when I enrolled in a programming class and learned some C++.  I knew I had a real love for programming but it was a bit late and I didn't have the necessary credentials to enroll in University to pursue computer science.
+I was first introduced to computers as a young child, my mother was quite the tech nerd in the 80s.  We had a PC and I got to play all the Sierra games which really sparked my fascination with computers.  Fast forward to my 12th grade when I enrolled in a programming class and learned some C++.  I knew I had a real love for programming but it was a bit late and I didn't have the necessary credentials to enroll in University to pursue computer science.
 
 I spent my 20s going to marketing and business school and spent my time working as a sales rep for Pepsi.  At the time I realized my heart wasn't in it and that I would love to get back into tech.  But not before dabbling in entreprenuership of course, since both my parents had successful businesses growing up.  I had a go but the love for tech still called out at me.
 

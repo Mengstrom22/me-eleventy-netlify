@@ -9,12 +9,14 @@ eleventyNavigation:
 ---
 # Hi There 👋
 
-Hello & welcome to the my corner of the web. 
+Hello & welcome to my corner of the web. 
 
-I took a long time to put something together and in the end just went with simplicity.  
+It took some time to decide on a peronsal site, a year or two, but in the end I stuck with simplicity.  
 
-After all I'm more about the low-fi aspects of life and this site reflects that best.
+After all I'm more about the low-fi aspects of life and this site reflects that best.  It also reminds me of when I first started playing with HTML in the late 90s.
 
-If you want to follow me on other sites check my [Twitter](https://twitter.com/MC_Engstrom).
+If you want to follow me anywhere else then check my [Twitter](https://twitter.com/MC_Engstrom).
 
-And find me here on [LinkedIn](https://www.linkedin.com/in/marcus-engstrom-50a38721/).
+And find me on [LinkedIn](https://www.linkedin.com/in/marcus-engstrom-50a38721/).
+
+Enjoy your stay.

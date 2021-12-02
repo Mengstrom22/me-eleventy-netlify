@@ -1,20 +1,20 @@
 ---
 layout: layouts/home.njk
-title: Home
+title: MCE
 date: 2016-01-01T00:00:00.000Z
 permalink: /
 eleventyNavigation:
   key: Home
   order: 0
 ---
-# Welcome
+# Hi There 👋
 
-This is a template for building a simple blog website with the [Eleventy static site generator](https://www.11ty.io), with deployment to [Netlify](https://www.netlify.com).
+Hello & welcome to the my corner of the web. 
 
-Includes [Netlify CMS](https://www.netlifycms.org) for WYSIWYG content editing, and [Netlify Forms](https://www.netlify.com/docs/form-handling) for processing your site's form data.
+I took a long time to put something together and in the end just went with simplicity.  
 
-For more info on installation and usage, view the [project repo]({{ pkg.repository.url }}) on GitHub.
+After all I'm more about the low-fi aspects of life and this site reflects that best.
 
-Or click the button below to deploy your own copy of this project to Netlify.
+If you want to follow me on other sites check my [Twitter](https://twitter.com/MC_Engstrom).
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/danurbanowicz/eleventy-netlify-boilerplate&stack=cms)
+And find me here on [LinkedIn](https://www.linkedin.com/in/marcus-engstrom-50a38721/).

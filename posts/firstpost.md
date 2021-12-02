@@ -1,28 +1,21 @@
 ---
-title: This is the first example post
-metaDescription: This is a sample meta description. If one is not present in your page/post's front matter, the default metadata.desciption will be used instead.
-date: 2019-01-01T00:00:00.000Z
-author: John Appleseed
-summary: Why contemplating our mortality can be a powerful catalyst for change
+title: This is my first post on my very own blog.
+metaDescription:
+date: 2021-12-01T11:15:00.000Z
+author: Marcus Engstrom
+summary: I'm done! I got my personal site finally done.
 tags:
-  - tech
-  - environment
-  - politics
-  - sport
+  - coding
+  - learning
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Yipee I got my site up and running and all is well. 
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+It's 11:15pm and I really should be off to bed now. 
 
-## Section Header
+Staring at this screen for the last few hours probably means my brain isn't ready to catch some z's...  
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+I bet I'll finish Asimov's Second Foundation as I try to conjure up some tiredness.
 
-``` text/2-3
-// this is a command
-function myCommand() {
-	let counter = 0;
-	counter++;
-}
-```
-Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Stay tuned for more thrilling blog posts in the near future.  
+
+Good night for now and thanks for visiting.

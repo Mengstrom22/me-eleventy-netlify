@@ -1,33 +1,41 @@
 ---
-title: About us
-metaDescription: This is a sample meta description. If one is not present in your page/post's front matter, the default metadata.desciption will be used instead.
-date: 2017-01-01T00:00:00.000Z
+title: About Me
+metaDescription: This is a page about who I am and the things I'm interested in.
+date: 2021-12-01T00:00:00.000Z
 permalink: /about/index.html
 eleventyNavigation:
   key: About
   order: 1
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-Add a few line breaks in here to test:-
-Capitalize  
-on  
-low  
-hanging  
-fruit  
+## My Background 📖
 
-## Our services
+I'm a full-time software engineer working remote from a small island in the PNW.  Before my life in software I ran my own business and worked in business and sales.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Outside my life as a software engineer I help run a flower farm with my partner and her company [Keep Floral](https://instagram.com/keep.floral).  We started our journey getting out of the city at the start of 2020 before the pandemic started.  Our timing was very lucky to say the least!
 
-### Blue-sky thinking
+## My journey 🕹️
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+I was first introduced to computers as a young child, my mother was quite the tech nerd in the 80s.  We had a PC and I got to play all the Sierra games which really sparked my fascination with computers.  Fast forward to my 12 grade when I enrolled in a programming class and learned some C++.  I knew I had a real love for programming but it was a bit late and I didn't have the necessary credentials to enroll in University to pursue computer science.
 
-#### Management frameworks
+I spent my 20s going to marketing and business school and spent my time working as a sales rep for Pepsi.  At the time I realized my heart wasn't in it and that I would love to get back into tech.  But not before dabbling in entreprenuership of course, since both my parents had successful businesses growing up.  I had a go but the love for tech still called out at me.
 
-Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+In 2012 I found the opportunity of a lifetime at RESAAS, the company that I'm currently employed at, and my tech journey began.  I knew very little and they took the chance on me, the devs trained me and the company put me through some night courses.  Before you knew it I was an official Junior Software Engineer with a full-time job!
 
-##### Regulatory convergence
+Fast forward to today and I've learned a load about deploying multi-tier applications, software patterns, architectual design, testing and more testing, CI/CD and the list goes on.  I personally think it says a lot about the company when you can be with them for this amount of time and still love going to work everyday.
 
-Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+### Some of the tech I work with 🖥️
+* .NET / C#
+* SQL Server
+* Azure
+* HTML / CSS
+* Crypto / Blockchain (learning)
+
+### Non tech aspects of my life 🔨
+* Love to cook
+* Growing my own food
+* Building stuff with my hands
+* Science Fiction
+* Finding new hobbies
+* Chopping wood
+* Off-grid life and how to be self sufficient

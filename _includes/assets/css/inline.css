@@ -188,9 +188,9 @@ textarea {
 }
 
 button {
-	border: 1px solid var(--primary);
-	background-color: var(--primary);
-	color: var(--secondary);
+	border: 1px solid var(--secondary-background);
+	background-color: var(--secondary-background);
+	color: var(--links);
 	cursor: pointer;
 }
 

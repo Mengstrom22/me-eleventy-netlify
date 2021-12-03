@@ -7,7 +7,7 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-# Hi There 👋
+# Oh, hai 👋
 
 Hello & welcome to my corner of the web. 
 

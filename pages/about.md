@@ -24,6 +24,13 @@ In 2012 I found the opportunity of a lifetime at RESAAS, the company that I'm cu
 
 Fast forward to today and I've learned a load about deploying multi-tier applications, software patterns, architectual design, testing and more testing, CI/CD and the list goes on.  I personally think it says a lot about the company when you can be with them for this amount of time and still love going to work everyday.
 
+## My entrepreneurial spirit 👕
+Although I have a full-time job I still nourish my entrepreneurial spirit by dabbling in ecommerce and running my own online apparel brand.  
+
+Emmma and I launched this brand for ramen lovers after a trip to Japan.  Since we both love ramen we figured that some apparel was needed so [Send Noods](https://sendnoods.shop/) was born. 
+
+Currently hosted on Shopify and Etsy, it's been a lot of fun and great learning from marketing to understanding user-flows, SEO, UX and design.
+
 ### Some of the tech I work with 🖥️
 * .NET / C#
 * SQL Server
@@ -31,11 +38,14 @@ Fast forward to today and I've learned a load about deploying multi-tier applica
 * HTML / CSS
 * Crypto / Blockchain (learning)
 
-### Non tech aspects of my life 🔨
-* Love to cook
-* Growing my own food
+### Random non-tech interests 🔨
+* Cooking!
+* Growing my own food to use in my cooking
 * Building stuff with my hands
 * Science Fiction
+* Listening to an eclectic mix of music
 * Finding new hobbies
 * Chopping wood
 * Off-grid life and how to be self sufficient
+
+Checkout my cooking playlist on [Spotify](https://open.spotify.com/playlist/7ssjaYoxknVKgd1QSU6H5p?si=d088f44834234ea5) - a good example of my love for both cooking and music.

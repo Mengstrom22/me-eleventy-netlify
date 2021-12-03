@@ -3,7 +3,7 @@ title: This is my first post on my very own blog.
 metaDescription:
 date: 2021-12-01T11:15:00.000Z
 author: Marcus Engstrom
-summary: I'm done! I got my personal site finally done.
+summary: I'm done! I got my personal site finally live.  Read more if you want.
 tags:
   - coding
   - learning

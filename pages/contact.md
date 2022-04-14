@@ -13,4 +13,4 @@ Nothing to see here other than a form.
 
 Here you can do stuff like get in touch with me.
 
-If you're a bot I will do my best to stop you, but let's be real, am I really that important that you need to spam me? I'm sure there are many more interesting areas of the web that you can spam.
+If you're a bot I will do my best to stop you.  Also don't you have better things to do? Like filling out more interesting forms all over the web.

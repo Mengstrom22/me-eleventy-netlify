@@ -10,22 +10,22 @@ eleventyNavigation:
 
 ## My Background 📖
 
-I'm a full-time software engineer working remote from a small island in the PNW.  Before my life in software I ran my own business and worked in business and sales.
+I'm a software engineer working remote from a small island in the Pacific Northwest.  Before my life in software I ran my own business and worked in sales.
 
-Outside my life as a software engineer I help run a flower farm with my partner and her company [Keep Floral](https://instagram.com/keep.floral).  We started our journey getting out of the city at the start of 2020 before the pandemic started.  Our timing was very lucky to say the least!
+Outside my life as a software engineer I help run a flower farm with my partner and her company [Keep Floral](https://instagram.com/keep.floral).  We started our journey getting out of the city at the start of 2020 and now life a simple life in the country.  However I'm still very much connected and follow all the latest tech.
 
 ## My journey 🕹️
 
-I was first introduced to computers as a young child, my mother was quite the tech nerd in the 80s.  We had a PC and I got to play all the Sierra games which really sparked my fascination with computers.  Fast forward to my 12th grade when I enrolled in a programming class and learned some C++.  I knew I had a real love for programming but it was a bit late and I didn't have the necessary credentials to enroll in University to pursue computer science.
+I was first introduced to computers as a young child, my mother was quite the techy in the 80s.  We had a machines from our first IBM x86 to the MSX where we played many games. We loved almost all the Sierra games published at the time which really sparked my fascination with computers.  However I didn't follow the traditional route of obtaining a CS degree.
 
-I spent my 20s going to marketing and business school and spent my time working as a sales rep for Pepsi.  At the time I realized my heart wasn't in it and that I would love to get back into tech.  But not before dabbling in entreprenuership of course, since both my parents had successful businesses growing up.  I had a go but the love for tech still called out at me.
+I spent my 20s going to marketing and business school as I've always had a fascination with business.  Both my parents were successful entrepreneurs and it really inspired me to pursue my own business path.  I enrolled in a business and marketing program at BCIT and landed a job as a sales rep with Pepsi.  However, after a few years I knew sales wasn't for me.  As I searched for my next career path I decided to take a dive into running my own business, which lasted about 5 years when we decided to call it quits.  At that time I knew I had to go into tech, it was calling me.
 
-In 2012 I found the opportunity of a lifetime at RESAAS, the company that I'm currently employed at, and my tech journey began.  I knew very little and they took the chance on me, the devs trained me and the company put me through some night courses.  Before you knew it I was an official Junior Software Engineer with a full-time job!
+In 2012 I found was presented with an amazing opportunity to join RESAAS as an aspiring software engineer.  The company was quite young at that time and they took a risk on me.  Fast forward to today and I still work there as a senior software engineer.  It goes without saying that I'm very happy I found RESAAS and chose this new career path. 
 
-Fast forward to today and I've learned a load about deploying multi-tier applications, software patterns, architectual design, testing and more testing, CI/CD and the list goes on.  I personally think it says a lot about the company when you can be with them for this amount of time and still love going to work everyday.
+Today I'm part of an amazing team and my responsibilities include maintaining a multi-tier cloud application, architectual design, testing, maintaining APIs, working in a CI/CD environment and more.  
 
 ## My entrepreneurial spirit 👕
-Although I have a full-time job I still nourish my entrepreneurial spirit by dabbling in ecommerce and running my own online apparel brand.  
+Although I have a full-time job I still nourish my entrepreneurial spirit by dabbling in ecommerce and help develop other projects on the side.  
 
 Emmma and I launched this brand for ramen lovers after a trip to Japan.  Since we both love ramen we figured that some apparel was needed so [Send Noods](https://sendnoods.shop/) was born. 
 
